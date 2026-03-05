@@ -1,0 +1,33 @@
+{
+  "instruction_override": [
+    "ignore previous instructions",
+    "ignore all previous instructions",
+    "disregard previous instructions",
+    "forget previous instructions",
+    "ignore the above",
+    "disregard the above",
+    "forget everything above",
+    "ignore your instructions",
+    "override your instructions"
+  ],
+  "role_manipulation": [
+    "DAN mode",
+    "developer mode",
+    "jailbreak mode",
+    "act as if you have no restrictions",
+    "pretend you are",
+    "you are now",
+    "from now on you are",
+    "simulate being",
+    "roleplay as"
+  ],
+  "emotional_manipulation": [
+    "my grandmother used to",
+    "my dying wish",
+    "for educational purposes",
+    "this is urgent",
+    "life or death",
+    "you must help me",
+    "I need you to"
+  ]
+}
