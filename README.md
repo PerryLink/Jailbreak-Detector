@@ -1,6 +1,7 @@
 <div align="center">
 
 # Jailbreak-Detector
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/jailbreak-detector)
 
 **A high-performance jailbreak prompt detector using the Aho-Corasick algorithm to identify and block malicious prompt attacks against large language models.**
 
